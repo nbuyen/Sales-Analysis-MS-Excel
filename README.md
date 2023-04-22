@@ -1,4 +1,4 @@
-# Sales-Analysis-MS-Excel
+# Sales-Analysis
 
 The analysis of sales data of a company that distributes and sells products to customers in the year 2015 to mid-2016, mainly focuses on four main regions: the US, France, Germany and the UK with three main product categories: Acessories, Bikes and Clothing.
 
